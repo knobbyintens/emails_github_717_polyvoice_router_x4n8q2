@@ -1,0 +1,5 @@
+{
+  "bleu_average": 28.7,
+  "dense_baseline_bleu": 26.6,
+  "compute_reduction": 0.42
+}
